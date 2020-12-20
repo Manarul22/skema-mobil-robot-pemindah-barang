@@ -3,3 +3,4 @@
 - skema motor shield
 - skema bluetooth hc-06
 - skema servo
+- skema dc motor
